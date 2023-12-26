@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nana-space
 - 👀 I’m interested in developing Software that makes life easier.
 - 🌱 I’m currently learning Everything !! is there something uncool in Tech ? On the Road to Become Full-Stack!
-- 💞️ I’m looking to get a Developer Role in a company so my Passion becomes my Job.
+- 💞️ I’m looking forward to start my new Job at Rota Yokogawa.
 - 📫 How to reach me natalievanderputten@gmail.com
 
 <!---
