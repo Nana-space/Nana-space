@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nana-space
 - 👀 I’m interested in developing Software that makes life easier.
 - 🌱 I’m currently learning Everything !! is there something uncool in Tech ? On the Road to Become Full-Stack!
-- 💞️ I’m lookiing forward to become a even bettter Dev.
+- 💞️ I’m looking forward to became an even better Dev.
 - 📫 How to reach me natalievanderputten@gmail.com
 
 <!---
